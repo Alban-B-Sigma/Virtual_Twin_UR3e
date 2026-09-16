@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7191540205213516995
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8737204920524100739, guid: 2cd902a4cdf612d4787d41672fbe9af2, type: 3}
+      propertyPath: m_Depth
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8737204920524100739, guid: 2cd902a4cdf612d4787d41672fbe9af2, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8737204920524100739, guid: 2cd902a4cdf612d4787d41672fbe9af2, type: 3}
+      propertyPath: m_FocalLength
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: -8737204920524100739, guid: 2cd902a4cdf612d4787d41672fbe9af2, type: 3}
+      propertyPath: m_GateFitMode
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -8737204920524100739, guid: 2cd902a4cdf612d4787d41672fbe9af2, type: 3}
+      propertyPath: far clip plane
+      value: 1000000
+      objectReference: {fileID: 0}
+    - target: {fileID: -8737204920524100739, guid: 2cd902a4cdf612d4787d41672fbe9af2, type: 3}
+      propertyPath: m_SensorSize.x
+      value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: -8737204920524100739, guid: 2cd902a4cdf612d4787d41672fbe9af2, type: 3}
+      propertyPath: m_SensorSize.y
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: -8737204920524100739, guid: 2cd902a4cdf612d4787d41672fbe9af2, type: 3}
+      propertyPath: m_FocusDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2cd902a4cdf612d4787d41672fbe9af2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2cd902a4cdf612d4787d41672fbe9af2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 12.3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2cd902a4cdf612d4787d41672fbe9af2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.09002682
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2cd902a4cdf612d4787d41672fbe9af2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.95737034
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2cd902a4cdf612d4787d41672fbe9af2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.28877372
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2cd902a4cdf612d4787d41672fbe9af2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.0068927286
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2cd902a4cdf612d4787d41672fbe9af2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.002079069
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2cd902a4cdf612d4787d41672fbe9af2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 33.57
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2cd902a4cdf612d4787d41672fbe9af2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -0.825
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2cd902a4cdf612d4787d41672fbe9af2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 72734918379966255, guid: 2cd902a4cdf612d4787d41672fbe9af2, type: 3}
+      propertyPath: m_RenderPostProcessing
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2cd902a4cdf612d4787d41672fbe9af2, type: 3}
+      propertyPath: m_Name
+      value: Camera_Cube
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 2cd902a4cdf612d4787d41672fbe9af2, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6279125626118276023}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 2cd902a4cdf612d4787d41672fbe9af2, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5294922866785853879}
+  m_SourcePrefab: {fileID: 100100000, guid: 2cd902a4cdf612d4787d41672fbe9af2, type: 3}
+--- !u!1 &8001790872389433746 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 2cd902a4cdf612d4787d41672fbe9af2, type: 3}
+  m_PrefabInstance: {fileID: 7191540205213516995}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &6279125626118276023
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8001790872389433746}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0115856e221978d41a66f2b219689e37, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CubeCamManager
+  Cube: {fileID: 0}
+--- !u!114 &5294922866785853879
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8001790872389433746}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 856c89dd43f893842813f20e228c2263, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MoveCubeCam
+  RotSpeed: 5
+  TranSpeed: 1
